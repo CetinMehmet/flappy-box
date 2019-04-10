@@ -1,2 +1,2 @@
 # flappy-box
-# Simple game coded using canvas and js
+# Simple game coded using canvas and javascript
